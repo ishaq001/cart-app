@@ -1,0 +1,24 @@
+h1 {
+  font-size: 65px;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.links a {
+  font-size: 30px;
+  font-weight: 500;
+  color: #fff;
+  line-height: 70px;
+  transition: all ease-in-out 0.4s;
+}
+.links a:hover {
+  color: red;
+}

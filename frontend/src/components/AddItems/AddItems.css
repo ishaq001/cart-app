@@ -1,0 +1,46 @@
+.form-group {
+  margin: 0 auto;
+  width: 425px;
+  text-align: left;
+}
+.form-group label {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.form-control {
+  margin-bottom: 40px;
+}
+.btn {
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+  font-size: 20px;
+  line-height: 35px;
+  transition: all ease-in-out 0.5s;
+  background-color: #fff;
+  color: #000;
+  margin-top: 30px;
+}
+.btn:hover {
+  background-color: red;
+  color: #fff;
+}
+
+/* links */
+.links-add-items {
+  position: absolute;
+  top: 25px;
+  right: 50px;
+}
+
+.links-add-items a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 15px;
+}
+
+.links-add-items a:hover {
+  color: red;
+}
